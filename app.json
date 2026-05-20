@@ -39,6 +39,9 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
-    }
+    },
+"router": {
+  "root": "src"
+}
   }
 }
